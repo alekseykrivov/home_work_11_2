@@ -1,2 +1,4 @@
 def capital_letters_string(str_lower):
-    return str_lower.upper()
+    '''Returns a capitalized
+    string'''
+    return str_lower.title()
